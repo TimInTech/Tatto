@@ -38,7 +38,7 @@ Alle Bereiche wurden:
 
 ## 📁 Nutzung in Obsidian
 
-- Alle Themenbereiche wurden zu eigenen Notizen gemacht und sind durch interne Links (`[[Titel]]`) miteinander verknüpft.
+- Alle Themenbereiche wurden zu eigenen Notizen gemacht und sind durch interne Links (z. B. `[[Schattierungstechniken]]`) miteinander verknüpft.
 - Tabellen erleichtern die Auswahl von Nadeln, Pigmenten und Techniken je nach Bedarf.
 - Glossar bietet schnelle Begriffserklärung.
 - Erweiterung jederzeit modular möglich (z. B. Hygiene, Studioaufbau, Kundenkommunikation).
@@ -148,11 +148,11 @@ Diese Notiz bietet eine strukturierte Übersicht der wichtigsten Tätowiernadelt
 
 | Typ               | Aufbau                                  | Anwendung                           |
 |------------------|------------------------------------------|-------------------------------------|
-| **[[RL]]**        | Eng gebündelte, runde Nadeln             | Präzise Linien, Outlines            |
-| **[[RS]]**        | Locker gebündelte, runde Nadeln          | Schatten, feine Farbfüllungen       |
-| **[[MG]]**        | Flach versetzte Nadeln (2-reihig)        | Flächige Schattierung und Farbfüllung |
-| **[[CM]]**        | Gebogene Magnum-Nadeln (Soft Edge)       | Weiche, organische Übergänge        |
-| **[[FL]]**        | Gerade in einer Linie angeordnet         | Grafische Stile, technische Linien  |
+| **[[Tattoo Technik Glossar#RL (Round Liner)|RL]]** | Eng gebündelte, runde Nadeln             | Präzise Linien, Outlines            |
+| **[[Tattoo Technik Glossar#RS (Round Shader)|RS]]** | Locker gebündelte, runde Nadeln          | Schatten, feine Farbfüllungen       |
+| **[[Tattoo Technik Glossar#MG (Magnum)|MG]]** | Flach versetzte Nadeln (2-reihig)        | Flächige Schattierung und Farbfüllung |
+| **[[Tattoo Technik Glossar#CM (Curved Magnum)|CM]]** | Gebogene Magnum-Nadeln (Soft Edge)       | Weiche, organische Übergänge        |
+| **[[Tattoo Technik Glossar#FL (Flat)|FL]]** | Gerade in einer Linie angeordnet         | Grafische Stile, technische Linien  |
 | **Textured**      | Aufgeraut oder unregelmäßig geschweißt   | Schnelle Pigmentabgabe, eher rauer Stil |
 
 ---

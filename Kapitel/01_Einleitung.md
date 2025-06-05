@@ -38,7 +38,7 @@ Alle Bereiche wurden:
 
 ## 📁 Nutzung in Obsidian
 
-- Alle Themenbereiche wurden zu eigenen Notizen gemacht und sind durch interne Links (`[[Titel]]`) miteinander verknüpft.
+- Alle Themenbereiche wurden zu eigenen Notizen gemacht und sind durch interne Links (z. B. `[[Schattierungstechniken]]`) miteinander verknüpft.
 - Tabellen erleichtern die Auswahl von Nadeln, Pigmenten und Techniken je nach Bedarf.
 - Glossar bietet schnelle Begriffserklärung.
 - Erweiterung jederzeit modular möglich (z. B. Hygiene, Studioaufbau, Kundenkommunikation).
